@@ -1,0 +1,3 @@
+# Encryption Middleware
+
+A language and implementation agnostic implementation of the popular encryption methods to be implemented as middleware in insecure channels.
